@@ -1,7 +1,7 @@
 package Module1_5classes;
 
 /**
- * Created by Misha Metel  on 1/24/2017.
+ * Created by Misha Metel  on 1/24/2017.-
  */
 public class second {
     public static void main(String[] args) {
